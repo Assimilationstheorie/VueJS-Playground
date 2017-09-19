@@ -4,15 +4,15 @@
 ###### Hier baue ich die einzelnen Episoden von Vuecast nach.
 
 ***
-#### Episode 1 - Basic Data Binding
+#### Episode 1 - Basic Data Binding :white_check_mark:
 [Basic Data Binding](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/1)
-#### Episode 2 - Setup Vue Devtools
+#### Episode 2 - Setup Vue Devtools :white_check_mark:
 [Setup Vue Devtools](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/2)
-#### Episode 3 - Lists
+#### Episode 3 - Lists :white_check_mark:
 [Lists](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/3)
-#### Episode 4 - Vue Event Listeners
+#### Episode 4 - Vue Event Listeners :white_check_mark:
 [Vue Event Listeners](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/4)
-#### Episode 5 - Attribute and Class Binding
+#### Episode 5 - Attribute and Class Binding :white_check_mark:
 [Attribute and Class Binding](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/5)
 #### Episode 6 - The Need for Computed Properties
 [The Need for Computed Properties](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/6)
