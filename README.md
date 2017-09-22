@@ -14,7 +14,7 @@
 [Vue Event Listeners](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/4)
 #### Episode 5 - Attribute and Class Binding :white_check_mark:
 [Attribute and Class Binding](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/5)
-#### Episode 6 - The Need for Computed Properties
+#### Episode 6 - The Need for Computed Properties :white_check_mark:
 [The Need for Computed Properties](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/6)
 #### Episode 7 - Components 101
 [Components 101](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/7)
