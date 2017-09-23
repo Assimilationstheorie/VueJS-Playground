@@ -18,7 +18,7 @@
 [The Need for Computed Properties](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/6)
 #### Episode 7 - Components 101 :white_check_mark:
 [Components 101](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/7)
-#### Episode 8 - Components Within Components
+#### Episode 8 - Components Within Components :white_check_mark:
 [Components Within Components](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/8)
 #### Episode 9 - Practical Component Exercise #1: Message
 [Practical Component Exercise #1: Message](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/9)
